@@ -11,10 +11,10 @@
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
-### ABOUT
+
 <!-- Add link to your picture -->
 
-### ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+<![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)>
 ![alt text](https://github.com/CassieSaw/git_test2.git/git_test2/images/IMG_0940.JPG)
 <!-- Add your details -->
 
