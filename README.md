@@ -13,8 +13,8 @@
 <!-- ABOUT Section Starts -->
 
 <!-- Add link to your picture -->
-/git_test2/images/IMG_0940.JPG
 
+6N6A3405.JPG
 
 
 <!-- Add your details -->
