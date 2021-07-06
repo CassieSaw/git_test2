@@ -4,7 +4,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: xxxxxxxx
+✉️:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
 
