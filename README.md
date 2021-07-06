@@ -35,7 +35,7 @@ I am __Cassie
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
 SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+June-2019 to Present: 
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
