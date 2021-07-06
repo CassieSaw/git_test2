@@ -4,7 +4,6 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
 
@@ -13,8 +12,6 @@
 <!-- ABOUT Section Starts -->
 
 <!-- Add link to your picture -->
-
-6N6A3405.JPG
 
 
 <!-- Add your details -->
